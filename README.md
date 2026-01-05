@@ -1,2 +1,2 @@
-# password_generator_by_khuzaima
-A Random Password Generator
+# Passify
+Generate strong passwords instantly
